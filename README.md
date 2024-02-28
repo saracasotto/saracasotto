@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saracasotto
 - 👀 I’m interested in Coding 
-- 🌱 I’m currently learning Frontend Development
+- 🌱 I’m currently learning Fullstack Development
 - 📫 How to reach me: saracasotto.dev@gmail.com
 - 😄 Pronouns: Candy
 
