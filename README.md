@@ -15,6 +15,7 @@ Welcome to my GitHub profile!
 
 ## Get in Touch
 - 📫 Feel free to reach out: [saracasotto.dev@gmail.com](mailto:saracasotto.dev@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/saracasotto)
 <!---
 saracasotto/saracasotto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
