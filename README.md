@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 - 🤖 Artificial Intelligence
 
 ## Get in Touch
-- 📫 Feel free to reach out: [saracasotto.dev@gmail.com](mailto:saracasotto.dev@gmail.com)
+- [saracasotto.dev@gmail.com](mailto:saracasotto.dev@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/saracasotto)
 <!---
 saracasotto/saracasotto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
