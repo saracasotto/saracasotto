@@ -3,7 +3,6 @@
 Welcome to my GitHub profile!
 
 ## About Me
-- 🌟 Passionate Fullstack Developer
 - 💻 Currently diving deep into Fullstack Development
 - 🎓 Always eager to learn and explore new technologies
 
