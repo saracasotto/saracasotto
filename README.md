@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Sara Casotto! 👋<br>Welcome to my GitHub profile!<br><br>About Me<br>💻 Currently diving deep into Fullstack Development<br>🎓 Always eager to learn and explore new technologies<br>Interests<br>🌱 Coding and software development<br>🚀 Building innovative web applications<br>🎨 Web development and web design, CSS and design aesthetics enthusiast<br>🤖 Artificial Intelligence<br><br>Contact me: saracasotto.dev@gmail.com<br><br>
+Hi there, I'm Sara Casotto! 👋<br>Welcome to my GitHub profile!<br><br>About Me<br>💻 Currently diving deep into Fullstack Development<br>🎓 Always eager to learn and explore new technologies<br><br>Interests:<br>🌱 Coding and software development<br>🚀 Building innovative web applications<br>🎨 Web development and web design, CSS and design aesthetics enthusiast<br>🤖 Artificial Intelligence<br><br>Contact me: saracasotto.dev@gmail.com<br><br>
 
 
 ## 🌐 Socials:
